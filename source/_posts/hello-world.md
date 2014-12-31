@@ -1,37 +1,12 @@
 title: Hello World
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [trobuleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to [Lenville's Blog](http://blog.lenville.com/)! This is my first post in 2015. People who want to make a change always suffer such daily stresses patiently. One more step, one more pain, one more gain. Socrates said, "The secret of change is to focus all of your energy, not on fighting the old, but on building the new." So I wish I could make make it, go across the Pacific Ocean and discover the delights of the American Cultures. For now, just the year of 2015, what I gonna challenge is:
 
-## Quick Start
+ - Better English
+ - Better Front-End Engineering
+ - Better Life Style
+ - Keep learning Python for gadgets
+ - Start learning Golang
+ - Start getting in touch with Economy & Finance on my own way
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](http://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+May everything goes well with people who care about me all the time.
