@@ -1,6 +1,6 @@
 title: Hello World
 ---
-Welcome to [Lenville's Blog](http://blog.lenville.com/)! This is my first post in 2015. People who want to make a change always suffer such daily stresses patiently. One more step, one more pain, one more gain. Socrates said:
+Welcome to [Lenville's Blog](http://blog.lenville.com/)! This is my only post in 2014. People who want to make a change always suffer such daily stresses patiently. One more step, one more pain, one more gain. Socrates said:
 
 > "The secret of change is to focus all of your energy, not on fighting the old, but on building the new."
 
