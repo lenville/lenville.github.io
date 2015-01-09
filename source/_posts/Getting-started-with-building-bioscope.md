@@ -1,4 +1,4 @@
-title: Getting-started-with-building-bioscope
+title: Getting started with building bioscope
 date: 2015-01-09 21:36:36
 categories:
 - Bioscope
