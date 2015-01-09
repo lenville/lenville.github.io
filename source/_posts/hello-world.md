@@ -1,4 +1,5 @@
 title: Hello World
+date: 2014-12-31 10:38:26
 ---
 Welcome to [Lenville's Blog](http://blog.lenville.com/)! This is my only post in 2014. People who want to make a change always suffer such daily stresses patiently. One more step, one more pain, one more gain. Socrates said:
 
