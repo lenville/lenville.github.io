@@ -1,4 +1,4 @@
-title: Getting started with building bioscope
+title: Getting-started-with-building-bioscope
 date: 2015-01-09 21:36:36
 categories:
 - Bioscope
@@ -15,4 +15,4 @@ tags:
 基于这样一个简单的创想, 我们准备使用 Golang 以及 Docker 来辅助我们进行一系列的开发.
 这一系列的文章会持续记录我们使用到的资料, 取得的进展 以及 获得的经验.
 
-这个项目的地址是 [@Github](https://github.com/lenville/bioscope),如果您有任何更好的意见或建议欢迎 [向我们提出](https://github.com/lenville/bioscope/issues)
+这个项目的地址是 [@Github](https://github.com/lenville/bioscope), 如果您有任何更好的意见或建议欢迎 [提出](https://github.com/lenville/bioscope/issues)
