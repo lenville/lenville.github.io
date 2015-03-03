@@ -1007,7 +1007,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd483;
+  background: #265b90;
 }
 .sidebar-nav {
   margin: 0;
@@ -1212,6 +1212,7 @@ pre .javascript .function {
   }
 }
 .posts-expand .post-title-link {
+  display: inline-block;
   position: relative;
   color: #555;
   border-bottom: none;
